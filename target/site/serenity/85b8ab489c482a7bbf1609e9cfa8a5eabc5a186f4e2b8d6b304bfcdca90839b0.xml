@@ -1,0 +1,6 @@
+<acceptance-test-run title="Get all pets" name="getAllPets" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="214" timestamp="2020-12-22T12:57:27.139+05:30">
+  <user-story id="com.petstoreapp.junit.FirstSerenityTest" name="First serenity test" path="com.petstoreapp.junit"/>
+  <tags>
+    <tag name="First serenity test" type="story"/>
+  </tags>
+</acceptance-test-run>
